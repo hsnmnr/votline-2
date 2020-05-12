@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "HMC",
+    "Province": "Punjab",
+    "Part": "Lower",
+    "City": "Multan",
+    "Party": "PMLN"
+  },
+  {
+    "Name": "Ahsan",
+    "Province": "Punjab",
+    "Part": "Upper",
+    "City": "Islamabad",
+    "Party": "PTI"
+  },
+  {
+    "Name": "Qasim",
+    "Province": "Sindh",
+    "Part": "Upper",
+    "City": "Gawadar",
+    "Party": "PTI"
+  },
+  {
+    "Name": "Bilal",
+    "Province": "Sindh",
+    "Part": "Lower",
+    "City": "Karachi",
+    "Party": "PTI"
+  },
+  {
+    "Name": "Ishfaq",
+    "Province": "KPK",
+    "Part": "Lower",
+    "City": "DIG",
+    "Party": "PTI"
+  },
+  {
+    "Name": "Yahya",
+    "Province": "KPK",
+    "Part": "Upper",
+    "City": "UDIG",
+    "Party": "PMLN"
+  },
+  {
+    "Name": "Asghar",
+    "Province": "Balochistan",
+    "Part": "Lower",
+    "City": "SUI",
+    "Party": "PMLN"
+  },
+  {
+    "Name": "Wajid",
+    "Province": "Balochistan",
+    "Part": "Upper",
+    "City": "USUI",
+    "Party": "PMLN"
+  }
+]
